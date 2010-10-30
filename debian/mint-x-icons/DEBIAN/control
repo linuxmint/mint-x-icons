@@ -1,0 +1,9 @@
+Package: mint-x-icons
+Version: 1.0.3
+Architecture: all
+Maintainer: Clement Lefebvre <root@linuxmint.com>
+Installed-Size: 41776
+Section: universe/gnome
+Priority: optional
+Description: Mint-X Icon themes
+ A mint/metal theme based on mintified versions of Clearlooks Revamp, Elementary and Faenza.

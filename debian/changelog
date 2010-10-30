@@ -1,0 +1,24 @@
+mint-x-icons (1.0.3) julia; urgency=low
+
+  * Fixed distributor-logo
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun,  10 Oct 2010 19:57:00 +0000
+
+mint-x-icons (1.0.2) julia; urgency=low
+
+  * Fixed example icon
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat,  02 Oct 2010 18:43:00 +0000
+
+mint-x-icons (1.0.1) julia; urgency=low
+
+  * Fixed missing places in 16px
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu,  30 Sep 2010 11:50:00 +0000
+
+mint-x-icons (1.0.0) julia; urgency=low
+
+  * Initial release
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri,  24 Sep 2010 11:29:00 +0000
+
