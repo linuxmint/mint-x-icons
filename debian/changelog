@@ -1,6 +1,7 @@
 mint-x-icons (1.0.4) julia; urgency=low
 
   * Fixed missing gtk-file (resulted in crashes in gedit and other apps)
+  * Fixed all broken links
 
  -- Clement Lefebvre <root@linuxmint.com>  Sat,  30 Oct 2010 13:01:00 +0000
 
