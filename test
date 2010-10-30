@@ -1,0 +1,6 @@
+#!/bin/bash
+
+sudo rm -rf /usr/share/icons/Mint-X
+sudo rm -rf /usr/share/icons/Mint-X-Dark
+sudo cp -R usr /
+gnome-appearance-properties -p theme
