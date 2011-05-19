@@ -1,3 +1,9 @@
+mint-x-icons (1.0.6) katya; urgency=low
+
+  * New Pidgin dynamic tray icons
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu,  19 May 2011 14:02:00 +0000
+
 mint-x-icons (1.0.5) katya; urgency=low
 
   * Fixed blue tint in home 32px icon
