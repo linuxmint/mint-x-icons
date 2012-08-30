@@ -1,3 +1,9 @@
+mint-x-icons (1.0.8) maya; urgency=low
+
+  * Added drive-harddisk-system.svg
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 30 Aug 2012 17:30:28 +0100
+
 mint-x-icons (1.0.7) katya; urgency=low
 
   * New LibreOffice icons
