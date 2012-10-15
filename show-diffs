@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "<table border=1>"
+for f in `diff -rq Mint-X/$1/ Mint-Xtra/$1/ 2>/dev/null | grep "differ" | awk {'print $2;'}`; do 
+    if [ ! -L $f ];
+    then
+        newfile=${f/Mint-X/Mint-Xtra}
+        echo "<tr><td><img src=$f></td><td><img src=$newfile></td><td><font color=green>cp $newfile $f</font></td><td><font color=red>cp $f $newfile</font></td></tr>";
+    fi
+done
+echo "</table>"
