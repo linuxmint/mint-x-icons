@@ -34,7 +34,7 @@ static char *ccc_large[] = {
 "q c #FA3131",
 "w c #F63A3A",
 "e c #FB3B3B",
-"r c #C14D4D",
+"r c #C24D4D",
 "t c #D25656",
 "y c #DC5F5F",
 "u c #E14C4C",
