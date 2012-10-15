@@ -1,3 +1,9 @@
+mint-x-icons (1.0.9) nadia; urgency=low
+
+  * Updated theme with improvements from bimsebasse (Mint-Xtra)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 15 Oct 2012 19:49:39 +0100
+
 mint-x-icons (1.0.8) maya; urgency=low
 
   * Added drive-harddisk-system.svg
