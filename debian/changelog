@@ -1,3 +1,9 @@
+mint-x-icons (1.1.0) nadia; urgency=low
+
+  * Various improvements
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 16 Oct 2012 15:09:14 +0100
+
 mint-x-icons (1.0.9) nadia; urgency=low
 
   * Updated theme with improvements from bimsebasse (Mint-Xtra)
