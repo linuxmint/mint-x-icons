@@ -32,13 +32,13 @@
      inkscape:window-height="1024"
      id="namedview134"
      showgrid="false"
-     inkscape:zoom="1.7383042"
-     inkscape:cx="68.524755"
-     inkscape:cy="30.129456"
+     inkscape:zoom="1.2291667"
+     inkscape:cx="-238.06018"
+     inkscape:cy="-57.245382"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2408" />
+     inkscape:current-layer="layer6-8" />
   <defs
      id="defs2410">
     <linearGradient
@@ -567,11 +567,11 @@
        id="linearGradient3778">
       <stop
          id="stop3780"
-         style="stop-color:#848704;stop-opacity:1;"
+         style="stop-color:#848787;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop3782"
-         style="stop-color:#c9d355;stop-opacity:1;"
+         style="stop-color:#444444;stop-opacity:1;"
          offset="1" />
     </linearGradient>
     <linearGradient
