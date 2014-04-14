@@ -1,3 +1,11 @@
+mint-x-icons (1.1.7) qiana; urgency=medium
+
+  * Changed gnome-session icon to match cs
+  * Added icon for pyrenamer
+  * remove spaces from two filenames
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 14 Apr 2014 13:21:04 +0100
+
 mint-x-icons (1.1.6) petra; urgency=low
 
   * Fixed broken links on internet-mail.png|svg (used by exo-mail-reader in Xfce)
