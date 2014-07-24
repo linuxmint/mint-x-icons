@@ -1,11 +1,13 @@
 Source: mint-x-icons
-Section: universe/gnome
+Section: gnome
 Priority: optional
 Maintainer: Clement Lefebvre <root@linuxmint.com>
-Build-Depends: debhelper (>= 5)
-Standards-Version: 3.7.2
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
 
 Package: mint-x-icons
 Architecture: all
+Depends: ${misc:Depends}
 Description: Mint-X Icon themes
- A mint/metal theme based on mintified versions of Clearlooks Revamp, Elementary and Faenza.
+ A mint/metal theme based on mintified versions of
+ Clearlooks Revamp, Elementary and Faenza.
