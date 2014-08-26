@@ -1,0 +1,20 @@
+#! /bin/sh
+set -e
+
+write_cache()
+{
+if [ -x /usr/bin/gtk-update-icon-cache-3.0 ]; then
+    if ! gtk-update-icon-cache-3.0 --force --quiet /usr/share/icons/Mint-X; then
+        echo "WARNING: icon cache generation failed"
+    fi
+fi
+}
+
+if [ "$1" = "triggered" ]; then
+    write_cache
+    exit 0
+fi
+
+write_cache
+
+#DEBHELPER#
