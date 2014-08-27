@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Mint-X
+Name=Mint-X-Blue
 Inherits=Mint-X,gnome,ubuntu-mono-light,hicolor,gnome-colors-wise
 Comment=Icon theme built for Linux Mint. Uses elements of Faenza and Elementary.
 Directories=places/16,places/22,places/24,places/32,places/48,places/64,places/128
