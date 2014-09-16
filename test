@@ -1,6 +1,5 @@
 #!/bin/bash
 
-sudo rm -rf /usr/share/icons/Mint-X
-sudo rm -rf /usr/share/icons/Mint-X-Dark
+sudo rm -rf /usr/share/icons/Mint-X*
 sudo cp -R usr /
-gnome-appearance-properties -p theme
+cinnamon-settings themes
