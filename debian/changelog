@@ -1,3 +1,43 @@
+mint-x-icons (1.1.9) rebecca; urgency=medium
+
+  * Add Teamviewer icons
+  * Add Calibre-gui icons
+  * Update system-run icon
+  * add postinst to build icon-theme.cache
+  * Add links from apps/gnome-disks to apps/palimpsest
+  * add cinnamon settings icons to Mint-X icon theme
+  * Add a blue version of the Mint-X folder set
+  * fix the name of the theme in index.theme
+  * add a set of grey folder icons
+  * Added missing emblems declaration
+  * Updated emblems
+  * add a set of yellow folders
+  * Added new emblems
+  * add a set of orange folder icons
+  * add a set of brown folders
+  * add a set of pink folders
+  * rework the shading of the Mint-X folder icons
+  * re-shade the blue folder icons
+  * re-shade the brown folder icons
+  * re-shade the orange folder icons
+  * re-shade the pink folder icons
+  * add a set of red folder icons
+  * whoops, fixed a mistake
+  * add a set of Sand colored folders
+  * Add a set of teal folder icons
+  * Add a set of aqua colored folders
+  * re-shade the yellow folder icons
+  * re-shade the grey folder icons
+  * fix file permissions
+  * update Debian files
+  * Add a set of purple folders
+  * Removed Mint-X-Dark
+  * Updated test script
+  * Removed pidgin tray icons (not used)
+  * Replaced transmission tray icon with full color version
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 30 Sep 2014 11:08:03 +0200
+
 mint-x-icons (1.1.8) qiana; urgency=medium
 
   *  Multiple fixes from JosephMcc
