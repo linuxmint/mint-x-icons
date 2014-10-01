@@ -1,3 +1,26 @@
+mint-x-icons (1.2.0) rebecca; urgency=medium
+
+  * Added new icons for some cinnamon settings and mdm
+  * Added atril links
+  * Added two avidemux icon links
+  * Added chess link icons
+  * Added engrampa icon links
+  * Added eom icon links
+  * Added handbrake icons under another name
+  * Added links to ruler apps
+  * Added links for note apps
+  * Added icon link for worldofgoodemo
+  * Added Xaralax icons
+  * Removed mdmflexiserver bitmaps
+  * Added tanglet icons
+  * Added icons for hexalate game
+  * Added icons for solaar
+  * Added minetest-icon link to fix not being used
+  * Used xz compression for .deb files
+  * Added new cs-notifications icon to the icon theme
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 01 Oct 2014 10:14:48 +0200
+
 mint-x-icons (1.1.9) rebecca; urgency=medium
 
   * Add Teamviewer icons
