@@ -1,3 +1,9 @@
+mint-x-icons (1.2.1) rebecca; urgency=medium
+
+  * Added cs-privacy to the icon theme
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 01 Nov 2014 14:35:18 +0100
+
 mint-x-icons (1.2.0) rebecca; urgency=medium
 
   * Added new icons for some cinnamon settings and mdm
