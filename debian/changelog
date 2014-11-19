@@ -1,3 +1,9 @@
+mint-x-icons (1.2.2) rebecca; urgency=medium
+
+  * Brought back Mint-X-Dark
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 19 Nov 2014 13:36:20 +0100
+
 mint-x-icons (1.2.1) rebecca; urgency=medium
 
   * Added cs-privacy to the icon theme
