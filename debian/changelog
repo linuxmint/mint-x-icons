@@ -1,3 +1,9 @@
+mint-x-icons (1.2.3) rebecca; urgency=medium
+
+  * Updated tomboy icon and systray
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 21 Nov 2014 17:19:56 +0100
+
 mint-x-icons (1.2.2) rebecca; urgency=medium
 
   * Brought back Mint-X-Dark
