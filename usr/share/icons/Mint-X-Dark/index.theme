@@ -2,7 +2,7 @@
 Name=Mint-X-Dark
 Inherits=Mint-X,Humanity-Dark,ubuntu-mono-dark,gnome
 Comment=Icon theme built for Linux Mint. Uses elements of Faenza and Elementary.
-Directories=actions/16,apps/16,actions/22,apps/22,places/22,status/22,actions/24,apps/24,places/24,status/24
+Directories=actions/16,actions/22,apps/22,places/22,status/22,actions/24,apps/24,places/24,status/24
 
 Example=directory-x-normal
 
