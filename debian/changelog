@@ -1,3 +1,9 @@
+mint-x-icons (1.2.5) betsy; urgency=medium
+
+  * Fixed a missing size feild warning
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 01 Feb 2015 19:53:34 +0100
+
 mint-x-icons (1.2.4) betsy; urgency=medium
 
   * Fixes for GTK 3.14 (compatible with 3.10)
