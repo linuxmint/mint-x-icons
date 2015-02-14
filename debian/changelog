@@ -1,3 +1,11 @@
+mint-x-icons (1.2.6) betsy; urgency=medium
+
+  * Added a couple icons sizes for preferences-desktop-default-applications.png
+  * Fixed the touchpad icon jumping around in the media keys osd when disabling/enabling
+  * Added control icons for CSD windows
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 14 Feb 2015 16:19:26 +0100
+
 mint-x-icons (1.2.5) betsy; urgency=medium
 
   * Fixed a missing size feild warning
