@@ -1,0 +1,35 @@
+#!/bin/sh
+
+echo "copy files..."
+rm -rf usr-compressed
+cp -r usr usr-compressed
+
+# compress vector graphics
+for f in `find usr-compressed -type f -name *.svg`; do
+	dir="$(dirname "$f")"
+	file="$(basename "$f")"
+	echo "compress \"$dir/$file\""
+	gzip -f9 "$f"
+	mv "$f".gz "$dir/${file}z"
+done
+
+# rename and update symbolic links
+for l in `find usr-compressed -type l`; do
+	target="$(readlink -nq "$l")"
+	if [ "$(printf "$target" | tail -c3)" = "svg" ]; then
+		echo "update symlink \"$l\" -> \"${target}z\""
+		ln -fs "${target}z" "$l"
+	fi
+	if [ "$(printf "$l" | tail -c3)" = "svg" ]; then
+		dir="$(dirname "$l")"
+		file="$(basename "$l")"
+		echo "rename symblink \"$dir/{\"$file\" -> \"${file}z\"}\""
+		mv "$l" "${l}z"
+	fi
+done
+
+echo ""
+echo "remaining dead links:"
+for l in `find usr-compressed -type l -xtype l`; do
+	echo "\"$l\" -> \"`readlink -nq "$l"`\""
+done
