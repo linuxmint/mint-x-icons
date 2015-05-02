@@ -14,7 +14,7 @@
    height="16"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.5 r10040"
    version="1.0"
    sodipodi:docname="folder-symbolic.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -31,21 +31,23 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="18.064397"
-     inkscape:cx="-24.935197"
-     inkscape:cy="1.5043594"
+     inkscape:cx="4.9855361"
+     inkscape:cy="10.48008"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
      height="128px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1028"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-width="1267"
+     inkscape:window-height="730"
+     inkscape:window-x="351"
+     inkscape:window-y="100"
      showguides="true"
      inkscape:guide-bbox="true"
      showgrid="true"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="0"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="false">
     <sodipodi:guide
        id="guide2226"
        position="32.637397,117.99844"
@@ -403,13 +405,13 @@
      inkscape:groupmode="layer">
     <path
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
-       d="M 2,0 C 1.446,0 1,0.446 1,1 L 1,2 15,2 C 15,1.446 14.554,1 14,1 L 7,1 C 7,0.446 6.554,0 6,0 z"
+       d="M 2.8571428,1 C 2.3822858,1 2,1.446 2,2 L 2,3 14,3 C 14,2.446 13.617714,2 13.142858,2 L 7.1428572,2 c 0,-0.554 -0.3822858,-1 -0.857143,-1 z"
        id="path3028"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ssccscss" />
     <path
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
-       d="M 1.5,3 C 0.669,3 0,3.669 0,4.5 l 0,10 C 0,15.331 0.669,16 1.5,16 l 13,0 c 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-10 C 16,3.669 15.331,3 14.5,3 z"
+       d="M 2.3125,4 C 1.585375,4 1,4.566077 1,5.2692308 L 1,13.73077 C 1,14.433924 1.585375,15 2.3125,15 l 11.375,0 C 14.414625,15 15,14.433924 15,13.73077 L 15,5.2692308 C 15,4.566077 14.414625,4 13.6875,4 z"
        id="path3040"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssssss" />
