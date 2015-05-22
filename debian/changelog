@@ -1,3 +1,37 @@
+mint-x-icons (1.2.7) rafaela; urgency=medium
+
+  [ Sebastian Philipp ]
+  * Changed GIMP icons
+  * Fixed size issue of the GIMP 48x48 icon
+  * Improved GIMP icon
+
+  [ Marshall Banana ]
+  * Fixed symbolic links
+  * New Desura icon
+  * Replace redundant archive format icons with symlinks
+  * Replace file-roller icons with symlinks
+  * Fix dead links
+  * Helper script to find dead links
+  * Re-add Pidgin tray icons
+  * Add simplescreenrecorder icon
+  * ImageMagick icon from MATE icon theme Faenza
+  * MKVToolnix icons
+  * Don't use text file icon on shared libraries
+  * Delete mint-x-icons.postinst
+
+  [ Clement Lefebvre ]
+  * Deleted radiotray status icons (upstream versions are actually much better)
+
+  [ JosephMcc ]
+  * Add a new home and computer symbolic icons plus add tweak folder-symbolic a bit
+  * improve the styling of computer-symbolic a bit more
+  * add steam_tray_mono icons
+  * update the handbrake icon in the 24px size
+  * add additional sizes of battery.svg for proper gtk3.14 support
+  * add some symbolic navigation icons
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 22 May 2015 13:10:50 +0200
+
 mint-x-icons (1.2.6) betsy; urgency=medium
 
   * Added a couple icons sizes for preferences-desktop-default-applications.png
