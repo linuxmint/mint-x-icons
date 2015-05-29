@@ -1,3 +1,10 @@
+mint-x-icons (1.2.9) rafaela; urgency=medium
+
+  [ pixunil ]
+  * Added media-playlist-repeat-song-symbolic.svg
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 29 May 2015 10:04:13 +0200
+
 mint-x-icons (1.2.8) rafaela; urgency=medium
 
   * Updated pidgin tray icons
