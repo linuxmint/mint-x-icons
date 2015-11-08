@@ -1,3 +1,29 @@
+mint-x-icons (1.3.2) rosa; urgency=medium
+
+  [ Yan ]
+  * UPS icons
+  * multicolor trash-bin stripe
+  * ODP support
+  * vsd and vsdx icons support
+
+  [ varlesh ]
+  * Add SVG-icons doublecmd, smartgit, telegram, viber
+  * Add symlinks geary and plank
+  * Add gprename icon
+
+  [ Yan Pashkovsky ]
+  * Tempaltes added
+
+  [ Stephen Brandt ]
+  * Updated all haguichi icons to use the new logo, added 32/48/96 status icons
+  * Added dark Haguichi status icons
+
+  [ JosephMcc ]
+  * Add additional size PNG's for some newly added icons
+  * Add support to the theme for the new cs-input-method icon
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 08 Nov 2015 17:13:01 +0000
+
 mint-x-icons (1.3.1) rafaela; urgency=medium
 
   * Added missing system-reboot icon (needed in Xfce logout dialog)
