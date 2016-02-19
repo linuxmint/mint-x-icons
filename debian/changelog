@@ -1,3 +1,26 @@
+mint-x-icons (1.3.3) sarah; urgency=medium
+
+  [ varlesh ]
+  * Add actions icons for clementine with HDPI-support, fix "search" symlink
+  * Rename 32px and 48px icon "view-media-lyrics" to "music-library". "view-media-lyrics" as symlink "music-library"
+  * Add icons birdie
+  * Add icons corebird
+  * Add icons qbittorrent
+  * Add icons & symlinks sublimetext
+  * Fix icons doublecmd, gprename, smartgit, telegram, viber (16,22,24,32 px's)
+  * Change bleachbit icons (symlinks earlier)
+  * Add symlinks for gtk-index & helpfaq (need actions icons for Shutter app)
+  * Fix form & size firefox icon (16,22, 14 px's)
+  * Add icons qpdfview
+
+  [ John Beard ]
+  * Add symlinks for Spotify client: spotify-client -> spotify
+  * Add icon-theme.cache files to the .gitignore list
+  * Add keepassx2 app symlinks to keepassx
+  * New Spotify icons
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 19 Feb 2016 12:23:15 +0000
+
 mint-x-icons (1.3.2) rosa; urgency=medium
 
   [ Yan ]
