@@ -163,9 +163,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.000001"
-     inkscape:cx="8.1766817"
-     inkscape:cy="1.1963442"
+     inkscape:zoom="11.512582"
+     inkscape:cx="15.503382"
+     inkscape:cy="27.882049"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -200,21 +200,21 @@
     <rect
        style="opacity:1;fill:#666666;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4571"
-       width="1.9976881"
-       height="2.9819751"
-       x="34.969124"
-       y="1015.5209"
-       ry="0.21042266"
-       rx="0.39953762" />
+       width="2"
+       height="3"
+       x="35"
+       y="1015.3622"
+       ry="0.5"
+       rx="0.5" />
     <rect
        style="opacity:1;fill:#666666;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4573"
-       width="1.9948032"
-       height="8.0394573"
-       x="34.969124"
-       y="1021.1179"
-       rx="0.39896065"
-       ry="0.2858474" />
+       width="2"
+       height="8"
+       x="35"
+       y="1021.3622"
+       rx="0.5"
+       ry="0.5" />
     <ellipse
        style="opacity:1;fill:url(#radialGradient5649);fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5641"
@@ -225,7 +225,7 @@
     <path
        id="path4560"
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 36.023373,1043.0514 0,-15.6638 -12.015187,0 0,23.0215 c 12.015187,0 12.015187,2e-4 12.015187,-7.3577 z m -24.030375,0 0,-15.6638 12.015188,0 0,23.0215 c -12.015188,0 -12.015188,2e-4 -12.015188,-7.3577 z m 24.030375,-31.3275 0,15.6637 -12.015187,0 0,-23.0214 c 12.015187,0 12.015187,-2e-4 12.015187,7.3577 z m -24.030375,0 0,15.6637 12.015188,0 0,-23.0214 c -12.015188,0 -12.015188,-2e-4 -12.015188,7.3577 z"
+       d="m 36,1043.0114 0,-15.6492 -12,0 0,23 c 12,0 12,2e-4 12,-7.3508 z m -24,0 0,-15.6492 12,0 0,23 c -12,0 -12,2e-4 -12,-7.3508 z m 24,-31.2984 0,15.6492 -12,0 0,-23 c 12,0 12,-2e-4 12,7.3508 z m -24,0 0,15.6492 12,0 0,-23 c -12,0 -12,-2e-4 -12,7.3508 z"
        inkscape:connector-curvature="0" />
     <rect
        style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
@@ -240,26 +240,26 @@
        id="path4210"
        inkscape:connector-curvature="0" />
     <circle
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4575"
-       cx="31.006897"
-       cy="1007.3306"
-       r="0.98612696" />
+       cx="31.5"
+       cy="1007.8622"
+       r="0.5" />
     <ellipse
-       cy="1007.2834"
-       cx="30.90361"
+       cy="1007.8383"
+       cx="31.44763"
        id="circle4579"
        style="opacity:1;fill:#666666;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-       rx="0.60680974"
-       ry="0.63540775" />
+       rx="0.30767322"
+       ry="0.32217339" />
     <circle
-       r="0.5833019"
-       cy="1007.3306"
-       cx="31.006897"
+       r="0.29575396"
+       cy="1007.8622"
+       cx="31.5"
        id="circle4583"
        style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
     <rect
-       style="opacity:1;fill:#999999;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4585"
        width="10"
        height="1"
@@ -275,6 +275,6 @@
        height="1"
        width="10"
        id="rect4602"
-       style="opacity:1;fill:#999999;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
 </svg>

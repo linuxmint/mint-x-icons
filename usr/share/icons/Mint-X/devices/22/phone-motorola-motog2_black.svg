@@ -163,9 +163,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="64"
-     inkscape:cx="8.2734354"
-     inkscape:cy="2.359647"
+     inkscape:zoom="32"
+     inkscape:cx="9.2943319"
+     inkscape:cy="12.852092"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -197,24 +197,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1030.3622)">
-    <rect
-       style="opacity:1;fill:#666666;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect4571"
-       width="2"
-       height="2"
-       x="16"
-       y="1034.3622"
-       ry="0.5"
-       rx="0.5" />
-    <rect
-       style="opacity:1;fill:#666666;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect4573"
-       width="2"
-       height="3"
-       x="16"
-       y="1037.3622"
-       rx="0.5"
-       ry="0.5" />
     <ellipse
        style="opacity:1;fill:url(#radialGradient5649);fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5641"
@@ -230,7 +212,7 @@
     <rect
        style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4616"
-       width="8"
+       width="9"
        height="15"
        x="7"
        y="1033.3622" />
