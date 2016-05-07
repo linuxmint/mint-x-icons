@@ -73,8 +73,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.627417"
-     inkscape:cx="6.7687231"
-     inkscape:cy="18.732937"
+     inkscape:cx="5.9669273"
+     inkscape:cy="21.024583"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -186,7 +186,7 @@
        d="M 10.559895,1020.3623 C 9.1416561,1020.3623 8,1021.4413 8,1022.7817 l 0,21.4937 a 33.333334,37.804741 0 0 0 9.076041,-23.9131 l -6.516146,0 z"
        id="rect4278" />
     <rect
-       style="opacity:0.98999999;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.98999999;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4256"
        width="3"
        height="1"
@@ -204,11 +204,11 @@
        cy="1024.8622"
        cx="13.5"
        id="circle4186"
-       style="opacity:0.98999999;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.98999999;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        r="0.5" />
     <circle
        r="0.5"
-       style="opacity:0.98999999;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.98999999;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle4187"
        cx="16.5"
        cy="1022.8622" />

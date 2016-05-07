@@ -73,8 +73,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="18.948355"
-     inkscape:cy="27.861191"
+     inkscape:cx="8.542105"
+     inkscape:cy="37.736191"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -186,13 +186,13 @@
        d="m 16.520027,1004.3622 c -1.95008,0 -3.519857,1.6011 -3.519857,3.5901 l 0,31.8938 a 45.833335,56.097542 0 0 0 12.479558,-35.4839 l -8.959701,0 z"
        id="rect4278" />
     <circle
-       style="opacity:0.98999999;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.98999999;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4258"
        cx="24.5"
        cy="1006.8622"
        r="0.5" />
     <rect
-       style="opacity:0.98999999;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.98999999;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4256"
        width="5"
        height="1"
