@@ -1,3 +1,16 @@
+mint-x-icons (1.4.1) sonya; urgency=medium
+
+  [ JosephMcc ]
+  * Fix some broken links
+
+  [ JBYoshi ]
+  * Add link for new Skype for Linux icons.
+
+  [ Clement Lefebvre ]
+  * Add Mint-X-Dark/status/22/system-devices-panel.png
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 21 Mar 2017 17:05:55 +0000
+
 mint-x-icons (1.4.0) serena; urgency=medium
 
   [ Dmitry Nurislamov ]
