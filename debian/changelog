@@ -1,3 +1,11 @@
+mint-x-icons (1.4.2) sonya; urgency=medium
+
+  [ JBYoshi ]
+  * Link unity-monodevelop to monodevelop.
+  * Link minecraft-launcher to minecraft.
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 07 May 2017 14:17:40 +0100
+
 mint-x-icons (1.4.1) sonya; urgency=medium
 
   [ JosephMcc ]
