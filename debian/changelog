@@ -1,3 +1,12 @@
+mint-x-icons (1.4.3) sonya; urgency=medium
+
+  [ JosephMcc ]
+  * Restyle the 32px network icons
+  * Restyle the 32px volume icons
+  * Restyle the 32px battery status icons
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 12 Jun 2017 16:12:11 +0100
+
 mint-x-icons (1.4.2) sonya; urgency=medium
 
   [ JBYoshi ]
