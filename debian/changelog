@@ -1,3 +1,24 @@
+mint-x-icons (1.4.4) sylvia; urgency=medium
+
+  [ Clement Lefebvre ]
+  * Status: Fix network icons in 48px and 96px
+
+  [ JosephMcc ]
+  * devices: Add a couple 16px icons for removable drives
+  * Add some additional sizes for cairo-dock
+  * Add the original base faenza icons to src/
+
+  [ Clement Lefebvre ]
+  * Add icon for PIA Manager
+  * Add some symbolic actions
+  * Add GOA icons
+  * Provide GOA icons in all dimensions
+
+  [ smkent ]
+  * Add SVG audio icons for the volume hotkey popup indicator (#170)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 04 Nov 2017 11:25:00 +0000
+
 mint-x-icons (1.4.3) sonya; urgency=medium
 
   [ JosephMcc ]
