@@ -1,3 +1,22 @@
+mint-x-icons (1.4.7) tara; urgency=medium
+
+  [ NikoKrause ]
+  * volume muted symbolic icon: change shade of gray (#177)
+
+  [ Clement Lefebvre ]
+  * Add nemo icon
+
+  [ NikoKrause ]
+  * Add symbolic link for calibre viewers (#178)
+
+  [ Germán Franco ]
+  * Rename microphone-sensitivity-none to microphone-sensitivity-muted (#179)
+
+  [ NikoKrause ]
+  * add system-lock-screen-symbolic (#180)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 27 Apr 2018 13:28:16 +0100
+
 mint-x-icons (1.4.6) sylvia; urgency=medium
 
   [ NikoKrause ]
