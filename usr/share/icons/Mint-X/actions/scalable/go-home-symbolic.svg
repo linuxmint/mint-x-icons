@@ -14,9 +14,9 @@
    height="16"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    version="1.0"
-   sodipodi:docname="go-home-symbolic.svg"
+   sodipodi:docname="user-home-symbolic.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs4">
@@ -137,9 +137,9 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="24.840663"
-     inkscape:cx="2.5179974"
-     inkscape:cy="7.62594"
+     inkscape:zoom="22.627417"
+     inkscape:cx="3.8712542"
+     inkscape:cy="7.9365365"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -148,17 +148,19 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1231"
      inkscape:window-height="742"
-     inkscape:window-x="230"
-     inkscape:window-y="57"
+     inkscape:window-x="47"
+     inkscape:window-y="5"
      inkscape:window-maximized="0">
     <sodipodi:guide
        orientation="1,0"
        position="0,112"
-       id="guide2383" />
+       id="guide2383"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="78.156291,0"
-       id="guide2389" />
+       id="guide2389"
+       inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
        id="grid3672"
@@ -169,11 +171,13 @@
     <sodipodi:guide
        orientation="1,0"
        position="22.008699,4.1542523"
-       id="guide2950" />
+       id="guide2950"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="11.22532,22.008699"
-       id="guide2952" />
+       id="guide2952"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -192,11 +196,10 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
-       d="M 7.9885788,1 1.0099989,9 3,9 l -0.01,6 9.9514909,0 0,-6 L 15,9 12.003219,5.6662839 l 0.0093,-2.2973714 -1.010306,0 0,1.1931682 z"
+       style="display:inline;fill:#bebebe;fill-opacity:1;stroke:none"
+       d="M 7.9882812,1 1.0097656,9 H 3 l -0.00977,6 H 7 v -4 h 3 v 4 h 2.941406 V 9 H 15 l -2.996094,-3.3339844 0.0078,-2.296875 H 11.001953 V 4.5625 Z"
        id="Symbol"
-       sodipodi:nodetypes="cccccccccccc"
-       inkscape:label="#rect2236"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccc" />
   </g>
 </svg>
