@@ -7,6 +7,6 @@ Standards-Version: 3.9.5
 
 Package: mint-x-icons
 Architecture: all
-Description: Mint-X Icon themes
+Description: Mint-X icon theme
  A mint/metal theme based on mintified versions of
  Clearlooks Revamp, Elementary and Faenza.
