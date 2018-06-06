@@ -1,3 +1,14 @@
+mint-x-icons (1.4.8) tara; urgency=medium
+
+  [ NikoKrause ]
+  * add symbolic for places, phone and switch-user (#181)
+  * add icons/links for GOA (Gnome Online Accounts) (#182)
+
+  [ Clement Lefebvre ]
+  * Packaging: Fix description
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 06 Jun 2018 13:25:14 +0100
+
 mint-x-icons (1.4.7) tara; urgency=medium
 
   [ NikoKrause ]
