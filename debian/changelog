@@ -1,3 +1,14 @@
+mint-x-icons (1.5.1) tessa; urgency=medium
+
+  [ Germán Franco ]
+  * Add symbolic icons for some system actions (#183)
+
+  [ NikoKrause ]
+  * Fix nemo sidebar bookmark icon (#184)
+  * add wireless-secure icons (#185)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 27 Nov 2018 17:28:19 +0000
+
 mint-x-icons (1.5.0) tara; urgency=medium
 
   * Add start-here-symbolic
