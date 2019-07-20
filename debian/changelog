@@ -1,3 +1,10 @@
+mint-x-icons (1.5.2) tina; urgency=medium
+
+  [ Mathias Bockwoldt ]
+  * Symlinked Python icon to Python3 (#187)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 20 Jul 2019 16:55:30 +0200
+
 mint-x-icons (1.5.1) tessa; urgency=medium
 
   [ Germán Franco ]
