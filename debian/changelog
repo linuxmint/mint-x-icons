@@ -1,3 +1,10 @@
+mint-x-icons (1.5.3) tricia; urgency=medium
+
+  * Update .deb icon
+  * Add an icon for Drawing
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 19 Nov 2019 11:22:37 +0000
+
 mint-x-icons (1.5.2) tina; urgency=medium
 
   [ Mathias Bockwoldt ]
