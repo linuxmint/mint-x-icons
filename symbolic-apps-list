@@ -1,0 +1,9 @@
+cs-fonts <- org.gnome.font-viewer
+seahorse <- org.gnome.seahorse.Application
+logviewer <- org.gnome.Logs
+utilities-terminal <- org.gnome.Terminal
+palimpsest <- org.gnome.DiskUtility
+package-x-generic <- org.gnome.ArchiveManager
+baobab <- org.gnome.baobab
+gnome-screenshot <- org.gnome.Screenshot
+rhythmbox <- org.gnome.Rhythmbox
