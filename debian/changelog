@@ -1,3 +1,9 @@
+mint-x-icons (1.5.4) ulyana; urgency=medium
+
+  * Adapt to GNOME apps name changes
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 11 Apr 2020 14:32:05 +0100
+
 mint-x-icons (1.5.3) tricia; urgency=medium
 
   * Update .deb icon
