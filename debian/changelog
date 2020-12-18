@@ -1,3 +1,9 @@
+mint-x-icons (1.5.6) ulyssa; urgency=medium
+
+  * Make system-file-manager look like folder
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 18 Dec 2020 18:39:33 +0000
+
 mint-x-icons (1.5.5) ulyana; urgency=medium
 
   * Add org.gnome.ArchiveManager
