@@ -1,3 +1,9 @@
+mint-x-icons (1.5.8) ulyssa; urgency=medium
+
+  * Add hypnotix
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 23 Dec 2020 16:26:31 +0000
+
 mint-x-icons (1.5.7) ulyssa; urgency=medium
 
   * Add webapp icons for popular websites
