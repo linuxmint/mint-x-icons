@@ -1,3 +1,9 @@
+mint-x-icons (1.5.9) ulyssa; urgency=medium
+
+  * Add cs-online-accounts
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 03 Jan 2021 12:12:03 +0000
+
 mint-x-icons (1.5.8) ulyssa; urgency=medium
 
   * Add hypnotix
