@@ -1,3 +1,14 @@
+mint-x-icons (1.6.0) uma; urgency=medium
+
+  [ Clement Lefebvre ]
+  * Add missing sizes for folder-recent
+
+  [ Michael Webster ]
+  * Add caps and num-lock symbolic indicator icons.
+  * Make caps-lock and num-lock symbolic icons cinnamon-specific.
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 03 Jun 2021 13:32:21 +0100
+
 mint-x-icons (1.5.9) ulyssa; urgency=medium
 
   * Add cs-online-accounts
