@@ -1,0 +1,37 @@
+#!/usr/bin/python3
+
+import os, sys
+
+if __name__ == '__main__':
+    if len(sys.argv) >= 4:
+        basedir = os.getcwd()
+        icontype = sys.argv[1]
+        arg_iconname = sys.argv[2]
+        linknames = sys.argv[3:]
+        colors = ["", "-Aqua", "-Blue", "-Brown", "-Grey", "-Orange", "-Pink", "-Purple", "-Red", "-Sand", "-Teal", "-Yellow", "-Dark"]
+        extensions = [".png", ".svg"]
+        for extension in extensions:
+            iconname = arg_iconname + extension
+            for color in colors:
+                for dirname, subdirs, filelist in os.walk("usr/share/icons/Mint-X%s/%s" % (color, icontype)):
+                    for filename in filelist:
+                        if filename == iconname:
+                            print(filename)
+                            iconpath = os.path.join(dirname, iconname)
+                            if os.path.exists(iconpath):
+                                if os.path.islink(iconpath):
+                                    print ("!!! SKIPPED: %s is a link! Please fix this manually (it could lead to a circular link situation)." % iconpath)
+                                else:
+                                    print("--> %s:" % dirname)
+                                    os.chdir(dirname)
+                                    for linkname in linknames:
+                                        linkname = linkname + extension
+                                        if os.path.exists(linkname):
+                                            print("    rm %s" % linkname)
+                                            os.system("rm %s" % linkname)
+                                        print ("    ln -s %s %s" % (iconname, linkname))
+                                        os.system("ln -s %s %s" % (iconname, linkname))
+                                os.chdir(basedir)
+    else:
+        print("Usage: %s icon-type icon-name link-name [more-link-names]" % sys.argv[0])
+        print ("Note: if link-name already exists (whether it's a link or a file), it gets deleted first, and then it is created as a new link pointing to icon-name")
