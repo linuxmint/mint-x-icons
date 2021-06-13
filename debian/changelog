@@ -1,3 +1,9 @@
+mint-x-icons (1.6.3) uma; urgency=medium
+
+  * Add xfsm-lock
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 13 Jun 2021 13:36:17 +0100
+
 mint-x-icons (1.6.2) uma; urgency=medium
 
   * Add a create-links script
