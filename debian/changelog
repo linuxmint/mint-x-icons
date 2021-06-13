@@ -1,3 +1,10 @@
+mint-x-icons (1.6.2) uma; urgency=medium
+
+  * Add a create-links script
+  * Add missing icons and support for Xfce 4.16
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 13 Jun 2021 13:28:19 +0100
+
 mint-x-icons (1.6.1) uma; urgency=medium
 
   * Add sticky
