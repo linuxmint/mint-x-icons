@@ -1,0 +1,20 @@
+{
+  "styles": [
+      {
+            "name": "Mint-X",
+            "icon-themes": [
+              {"name": "Blue", "color": "#5b73c4", "theme": "Mint-X-Blue"},
+              {"name": "Aqua", "color": "#6cabcd", "theme": "Mint-X-Aqua"},
+              {"name": "Teal", "color": "#5aaa9a", "theme": "Mint-X-Teal"},
+              {"name": "Green", "color": "#9ab87c", "theme": "Mint-X"},
+              {"name": "Sand", "color": "#c8ac69", "theme": "Mint-X-Sand"},
+              {"name": "Brown", "color": "#aa876a", "theme": "Mint-X-Brown"},
+              {"name": "Grey", "color": "#9d9d9d", "theme": "Mint-X-Grey"},
+              {"name": "Orange", "color": "#db9d61", "theme": "Mint-X-Orange"},
+              {"name": "Red", "color": "#c15b58", "theme": "Mint-X-Red"},
+              {"name": "Pink", "color": "#c76199", "theme": "Mint-X-Pink"},
+              {"name": "Purple", "color": "#8c6ec9", "theme": "Mint-X-Purple"}
+          ]
+        }
+  ]
+}
