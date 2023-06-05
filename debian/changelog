@@ -1,3 +1,11 @@
+mint-x-icons (1.6.5) victoria; urgency=medium
+
+  * Add PIX icon
+  * Remove Mint-X-Dark
+  * Add definitions for folder-color-switcher
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 05 Jun 2023 13:14:42 +0100
+
 mint-x-icons (1.6.4) una; urgency=medium
 
   * Add thingy icon
