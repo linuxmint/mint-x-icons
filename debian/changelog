@@ -1,3 +1,13 @@
+mint-x-icons (1.6.7) wilma; urgency=medium
+
+  [ marshcritter ]
+  * Add various symlinks for updated apps (#200)
+
+  [ Clement Lefebvre ]
+  * folder-color-switcher: Add missing choice for Yellow
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 21 Apr 2024 12:40:40 +0100
+
 mint-x-icons (1.6.6) wilma; urgency=medium
 
   * Add gnome-online-accounts-gtk
