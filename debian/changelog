@@ -1,3 +1,16 @@
+mint-x-icons (1.6.9) wilma; urgency=medium
+
+  [ Clement Lefebvre ]
+  * Remove geary
+  * Remove lollypop
+  * Remove pitivi
+  * Remove dead links
+
+  [ Вадим Кущевский ]
+  * Add kotlin icons (#202)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 16 Jun 2024 12:20:51 +0100
+
 mint-x-icons (1.6.8) wilma; urgency=medium
 
   * Add mintchat
