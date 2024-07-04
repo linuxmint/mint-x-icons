@@ -1,1 +1,5 @@
 icon-theme.cache
+debian/files
+debian/*debhelper*
+debian/*substvar*
+debian/mint-x-icons/
