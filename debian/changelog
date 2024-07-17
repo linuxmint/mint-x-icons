@@ -1,3 +1,10 @@
+mint-x-icons (1.7.1) wilma; urgency=medium
+
+  [ Michael Webster ]
+  * Add view-compact-symbolic.svg.
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 17 Jul 2024 15:52:00 +0100
+
 mint-x-icons (1.7.0) wilma; urgency=medium
 
   * Add applications-education
