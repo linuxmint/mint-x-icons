@@ -1,3 +1,9 @@
+mint-x-icons (1.7.2) xia; urgency=medium
+
+  * Add aptkit
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 26 Nov 2024 11:38:04 +0000
+
 mint-x-icons (1.7.1) wilma; urgency=medium
 
   [ Michael Webster ]
