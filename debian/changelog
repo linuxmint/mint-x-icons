@@ -1,3 +1,10 @@
+mint-x-icons (1.7.3) zara; urgency=medium
+
+  [ Vee ]
+  * Additional Icons (#206)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 21 Jul 2025 14:10:16 +0200
+
 mint-x-icons (1.7.2) xia; urgency=medium
 
   * Add aptkit
