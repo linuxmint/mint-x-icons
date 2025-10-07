@@ -1,3 +1,13 @@
+mint-x-icons (1.7.4) gigi; urgency=medium
+
+  [ Michael Webster ]
+  * Add missing document-edit-symbolic for libadwaita.
+
+  [ Clement Lefebvre ]
+  * Add process-working-symbolic.svg
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 07 Oct 2025 15:45:15 +0100
+
 mint-x-icons (1.7.3) zara; urgency=medium
 
   [ Vee ]
