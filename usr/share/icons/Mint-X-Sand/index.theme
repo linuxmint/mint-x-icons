@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Mint-X-Sand
-Inherits=Mint-X,gnome,hicolor
+Inherits=Mint-X,Adwaita,gnome,hicolor
 Comment=Icon theme built for Linux Mint. Uses elements of Faenza and Elementary.
 Directories=places/16,places/22,places/24,places/32,places/48,places/128
 
