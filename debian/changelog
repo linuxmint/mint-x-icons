@@ -1,3 +1,39 @@
+mint-x-icons (1.7.5) zena; urgency=medium
+
+  [ Vee ]
+  * [Fix] Add Adwaita to Inherits (#213)
+  * Update Xemu
+  * Update obs-studio
+  * Update notepad-next
+  * Update left4dead
+  * Update kdenlive
+  * Update application-x-7z-compressed
+  * Update mimes for msdownload and ms-does-exucutable
+  * Add discord
+  * Add bitwarden
+  * Add bulky
+  * Add fingwit
+  * Add webapp-manager
+  * Add mintupdate
+  * Add warpinator
+  * Add element
+  * Add mumble
+  * Add lutris
+  * Add floorp
+  * Add librewolf
+  * Add ardour
+  * Add vesktop
+  * Add anki
+  * Add godot
+  * Update mimes for CSV, RTL, Csharp
+  * Update pgp and certificates mimes
+  * Update json mime
+  * Update sql mime
+  * mimes: Add a few links
+  * apps: Add a few links
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 24 Nov 2025 15:50:19 +0000
+
 mint-x-icons (1.7.4) gigi; urgency=medium
 
   [ Michael Webster ]
