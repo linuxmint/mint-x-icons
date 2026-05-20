@@ -1,3 +1,9 @@
+mint-x-icons (1.7.6) alfa; urgency=medium
+
+  * Update icons used in GTK file picker to match XSI
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 20 May 2026 17:02:27 +0100
+
 mint-x-icons (1.7.5) zena; urgency=medium
 
   [ Vee ]
