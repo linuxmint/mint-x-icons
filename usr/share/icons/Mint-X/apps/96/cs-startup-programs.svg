@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="96"
    width="96"
    version="1.1"
    id="svg2"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="hicolor_categories_scalable_cs-startup-programs.svg">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="cs-startup-programs.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata101">
     <rdf:RDF>
@@ -38,17 +38,33 @@
      inkscape:window-height="1024"
      id="namedview99"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="64.677721"
-     inkscape:cy="33.922496"
+     inkscape:zoom="9.8333334"
+     inkscape:cx="25.372881"
+     inkscape:cy="55.474576"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg2"
      inkscape:snap-center="true"
-     inkscape:snap-object-midpoints="true" />
+     inkscape:snap-object-midpoints="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient15968"
+       stop-color="#fff">
+      <stop
+         offset="0"
+         id="stop15964"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop15966"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
     <linearGradient
        id="g"
        stop-color="#fff">
@@ -164,11 +180,13 @@
        r="42">
       <stop
          offset="0"
-         id="stop40" />
+         id="stop40"
+         style="stop-color:#ffffff;stop-opacity:1;" />
       <stop
          stop-opacity="0"
          offset="1"
-         id="stop42" />
+         id="stop42"
+         style="stop-color:#ffffff;stop-opacity:0;" />
     </radialGradient>
     <linearGradient
        id="q"
@@ -190,7 +208,7 @@
     <linearGradient
        id="p"
        y2="63.893"
-       xlink:href="#g"
+       xlink:href="#linearGradient15968"
        gradientUnits="userSpaceOnUse"
        x2="36.357"
        y1="6"
@@ -1920,7 +1938,11 @@
        x1="36.357143" />
     <filter
        id="filter3174"
-       color-interpolation-filters="sRGB">
+       color-interpolation-filters="sRGB"
+       x="-0.047720931"
+       y="-0.048282354"
+       width="1.0954419"
+       height="1.0965647">
       <feGaussianBlur
          stdDeviation="1.71"
          id="feGaussianBlur3176" />
@@ -2529,7 +2551,11 @@
        x1="36.357143" />
     <filter
        id="filter3174-4"
-       color-interpolation-filters="sRGB">
+       color-interpolation-filters="sRGB"
+       x="-0.047720931"
+       y="-0.048282354"
+       width="1.0954419"
+       height="1.0965647">
       <feGaussianBlur
          stdDeviation="1.71"
          id="feGaussianBlur3176-6" />
@@ -2770,11 +2796,11 @@
          stop-opacity=".58824" />
     </linearGradient>
     <filter
-       x="-.12"
-       y="-.12"
+       x="-0.11997907"
+       y="-0.11999242"
        color-interpolation-filters="sRGB"
-       width="1.24"
-       height="1.24"
+       width="1.2399581"
+       height="1.2399848"
        id="p-6">
       <feGaussianBlur
          id="feGaussianBlur3410"
@@ -2782,7 +2808,11 @@
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="o-6">
+       id="o-6"
+       x="-0.020924038"
+       y="-0.020928148"
+       width="1.0418481"
+       height="1.0423473">
       <feGaussianBlur
          id="feGaussianBlur3407"
          stdDeviation="0.42" />
@@ -2855,11 +2885,11 @@
        y2="138.66"
        id="x" />
     <filter
-       x="-.192"
-       y="-.192"
+       x="-0.19578789"
+       y="-0.19578789"
        color-interpolation-filters="sRGB"
-       width="1.384"
-       height="1.384"
+       width="1.3915758"
+       height="1.3915758"
        id="l-2">
       <feGaussianBlur
          id="feGaussianBlur3384"
@@ -3093,7 +3123,11 @@
        x1="36.357143" />
     <filter
        id="filter3174-9"
-       color-interpolation-filters="sRGB">
+       color-interpolation-filters="sRGB"
+       x="-0.047720931"
+       y="-0.048282354"
+       width="1.0954419"
+       height="1.0965647">
       <feGaussianBlur
          stdDeviation="1.71"
          id="feGaussianBlur3176-61" />
@@ -3769,7 +3803,11 @@
        x1="36.357143" />
     <filter
        id="filter3174-6"
-       color-interpolation-filters="sRGB">
+       color-interpolation-filters="sRGB"
+       x="-0.047720931"
+       y="-0.048282354"
+       width="1.0954419"
+       height="1.0965647">
       <feGaussianBlur
          stdDeviation="1.71"
          id="feGaussianBlur3176-7" />
@@ -4059,7 +4097,7 @@
        d="m -205.77518,56.960091 c 5.39063,3.20678 3.90527,17.077175 3.8125,17.90625 -0.72386,-0.723858 -1.15625,-1.739181 -1.15625,-2.84375 1.31298,-12.285744 -1.97158,-13.784604 -2.8125,-13.96875 -0.12013,-0.02631 -0.1875,-0.03125 -0.1875,-0.03125 l 0.34375,-1.0625 z"
        inkscape:connector-curvature="0"
        id="path3853"
-       style="opacity:0.2;fill:#000000;stroke:none" />
+       style="opacity:0.2;fill:#000000;stroke:none;fill-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        d="m -203.11893,72.022591 a 4,4 0 0 0 8,0 4,4 0 1 0 -8,0 z"
@@ -4142,7 +4180,7 @@
        style="display:none"
        id="layer2-1">
       <rect
-         style="opacity:0.9;fill:url(#ButtonShadow-00);fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3174-6)"
+         style="display:inline;opacity:0.9;fill:url(#ButtonShadow-00);fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3174-6)"
          id="rect3745-6"
          y="7"
          x="5"
