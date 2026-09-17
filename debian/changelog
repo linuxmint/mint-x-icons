@@ -1,3 +1,13 @@
+mint-x-icons (1.7.7) adrien; urgency=medium
+
+  [ Harrison ]
+  * Add support for ungoogled-chromium (#219)
+
+  [ Clement Lefebvre ]
+  * Add icon links
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 17 Sep 2026 12:06:22 +0100
+
 mint-x-icons (1.7.6) alfa; urgency=medium
 
   * Update icons used in GTK file picker to match XSI
