@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="96"
    width="96"
    version="1.1"
    id="svg2"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="overview.svg">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="cs-overview.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata91">
     <rdf:RDF>
@@ -38,17 +38,46 @@
      inkscape:window-height="1023"
      id="namedview89"
      showgrid="false"
-     inkscape:zoom="3.4766084"
-     inkscape:cx="-2.5052882"
-     inkscape:cy="27.368562"
+     inkscape:zoom="6.9532168"
+     inkscape:cx="-29.554666"
+     inkscape:cy="33.437761"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true" />
+     inkscape:snap-center="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient3527"
+       stop-color="#fff">
+      <stop
+         offset="0"
+         id="stop3523"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop3525"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3521"
+       stop-color="#fff">
+      <stop
+         offset="0"
+         id="stop3517"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop3519"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
     <linearGradient
        id="b"
        stop-color="#fff">
@@ -129,11 +158,13 @@
        r="42">
       <stop
          offset="0"
-         id="stop25" />
+         id="stop25"
+         style="stop-color:#ffffff;stop-opacity:1;" />
       <stop
          stop-opacity="0"
          offset="1"
-         id="stop27" />
+         id="stop27"
+         style="stop-color:#ffffff;stop-opacity:0;" />
     </radialGradient>
     <linearGradient
        id="j"
@@ -155,7 +186,7 @@
     <linearGradient
        id="i"
        y2="63.893"
-       xlink:href="#b"
+       xlink:href="#linearGradient3521"
        gradientUnits="userSpaceOnUse"
        x2="36.357"
        y1="6"
@@ -278,7 +309,7 @@
        gradientTransform="translate(1,0)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient3128"
-       xlink:href="#a-0"
+       xlink:href="#linearGradient3527"
        inkscape:collect="always" />
   </defs>
   <g
@@ -398,7 +429,7 @@
      style="fill-rule:evenodd"
      id="g117">
     <path
-       style="opacity:0.28000004;fill:url(#h-8)"
+       style="display:none;opacity:0.28;fill:url(#h-8)"
        inkscape:connector-curvature="0"
        d="m 44.844,8.0625 1.3438,3.875 h 32.812 c 2.754,0 5.0625,2.3085 5.0625,5.0625 v 62 c 2e-6,2.754 -2.3085,5.0625 -5.0625,5.0625 h -7.875 l 1.3438,3.875 h 11.531 c 2.2218,0 3.9375,-1.7157 3.9375,-3.9375 V 12 c 0,-2.2218 -1.716,-3.9375 -3.938,-3.9375 h -39.156 z"
        id="path119" />
