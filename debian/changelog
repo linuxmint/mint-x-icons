@@ -1,3 +1,10 @@
+mint-x-icons (1.8.0) adrien; urgency=medium
+
+  * Add superlight
+  * Add unfold
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 12 Oct 2026 17:26:31 +0100
+
 mint-x-icons (1.7.9) adrien; urgency=medium
 
   * Add velocity
