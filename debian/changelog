@@ -1,3 +1,10 @@
+mint-x-icons (1.8.1) adrien; urgency=medium
+
+  [ Vee ]
+  * Icons and Flatpak Symlinks Updates (#216)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 26 Oct 2026 13:54:00 +0000
+
 mint-x-icons (1.8.0) adrien; urgency=medium
 
   * Add superlight
